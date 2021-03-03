@@ -1040,5 +1040,5 @@ h4 {
 }
 
 .col-sm-4 {
-    color: black;
+    color: black !important;
 }
