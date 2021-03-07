@@ -1042,3 +1042,25 @@ h4 {
 a {
     color: black !important;
 }
+
+
+.text-img1,
+.text-img3 {
+    font-size: 22px;
+    padding-left: 18%;
+    padding-right: 18%;
+}
+
+@media (max-width: 730px) {
+    .text-img1,
+    .text-img3,
+    .text-img2 {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+.text-img2 {
+    font-size: 22px;
+    padding-left: 5%;
+    padding-right: 5%;
+}
