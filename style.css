@@ -1064,3 +1064,7 @@ a {
     padding-left: 5%;
     padding-right: 5%;
 }
+
+.col-sm-12 {
+    text-align: center;
+}
